@@ -1,0 +1,11 @@
+[packages]
+ofxtools = "*"
+
+[dev-packages]
+ipdb = "*"
+
+[requires]
+python_version = "3.8"
+
+[scripts]
+script = "python main.py"
